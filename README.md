@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joonhak Lee
 ===================================================================================================================================
 
-Undergraduate at Sejong University Intelligent Mechatronics Engineering (2021~)
+Undergraduate at Sejong University, Department of Intelligent Mechatronics Engineering (2021~)
 ------------------------------------------
 
 I am currently studying AI!
