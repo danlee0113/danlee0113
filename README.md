@@ -7,7 +7,7 @@ Undergraduate at Sejong University, Department of Intelligent Mechatronics Engin
 I am currently studying AI!
 
 * 🌍  I'm based in Seoul, South Korea
-* 🖥️  See my portfolio at [My Blog](http://blog.naver.com/dogsfoot)
+* 🖥️  See my portfolio at [My Blog](https://velog.io/@danlee0113/posts)
 * ✉️  You can contact me at [danlee0113@naver.com](mailto:danlee0113@naver.com)
 * 🧠  I'm learning PyTorch, NumPy, Python, AI
 
