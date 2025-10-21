@@ -1,15 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joonhak Lee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joonhak Lee.
 ===================================================================================================================================
-
-Undergraduate at Sejong University, Department of Intelligent Mechatronics Engineering (2021~)
 ------------------------------------------
 
-I am currently studying AI!
-
 * 🌍  I'm based in Seoul, South Korea
-* 🖥️  See my portfolio at [My Blog](https://velog.io/@danlee0113/posts)
+* 🖥️  [My Blog](https://velog.io/@danlee0113/posts)
 * ✉️  You can contact me at [danlee0113@naver.com](mailto:danlee0113@naver.com)
-* 🧠  I'm learning PyTorch, NumPy, Python, AI
+* 🧠  I'm interested in Generative AI, Super Resolution and Computational Photography.
+
+
+<h2>👩‍💻 Career</h2>
+<hr>
+<pre style="background-color:#0d1117; color:#c9d1d9; padding:16px; border-radius:10px;">
+2024.08 ~ 2025.02: 네이버 부스트캠프 AI Tech 7기 CV 트랙
+2021.03 ~ : 세종대학교 지능기전공학부 스마트기기 전공
+</pre>
 
 ### Skills
 
