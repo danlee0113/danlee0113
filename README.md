@@ -11,7 +11,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2>👩‍💻 Career</h2>
 <hr>
 <pre style="background-color:#0d1117; color:#c9d1d9; padding:16px; border-radius:10px;">
-2024.08 ~ 2025.02: 네이버 부스트캠프 AI Tech 7기 CV 트랙
+2025.03 ~ : 사회복무 
+2024.08 ~ 2025.02: 네이버 부스트캠프 AI Tech 7기 CV 트랙 수료
 2021.03 ~ : 세종대학교 지능기전공학부 스마트기기 전공
 </pre>
 
